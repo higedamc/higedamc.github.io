@@ -1,6 +1,7 @@
 {
     "names": {
-        "godzhigella": "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8"
+        "godzhigella": "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8",
+        "test": "0f33e09dcf8114f3106d207e3b3e3502276383a574b4a7c07294ef287d3edf01"
     },
     "relays": {
         "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8": [
@@ -12,6 +13,9 @@
             "wss://relay.nostr.band",
             "wss://offchain.pub",
             "wss://relay.snort.social"
+        ],
+        "0f33e09dcf8114f3106d207e3b3e3502276383a574b4a7c07294ef287d3edf01": [
+            "wss://relay.kiatsu.world"
         ]
     }
 }
