@@ -13,7 +13,16 @@
             "wss://relay.plebstr.com",
             "wss://relay.nostr.band",
             "wss://offchain.pub",
-            "wss://relay.snort.social"
+            "wss://relay.snort.social",
+            "wss://nostr1.current.fyi",
+            "wss://relay.current.fyi",
+            "wss://relay.primal.net",
+            "wss://nostr.mom",
+            "wss://nostr-pub.wellorder.net",
+            "wss://relay.nostr.bg",
+            "wss://e.nos.lol",
+            "wss://relay-jp.nostr.wirednet.jp",
+            "wss://relay.kiatsu.world"
         ],
         "0f33e09dcf8114f3106d207e3b3e3502276383a574b4a7c07294ef287d3edf01": [
             "wss://relay.kiatsu.world"
