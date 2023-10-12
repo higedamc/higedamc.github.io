@@ -22,7 +22,9 @@
             "wss://relay.nostr.bg",
             "wss://e.nos.lol",
             "wss://relay-jp.nostr.wirednet.jp",
-            "wss://relay.kiatsu.world"
+            "wss://relay.kiatsu.world",
+            "wss://nostr.orangepill.dev",
+            "wss://relay.yozora.world"
         ],
         "0f33e09dcf8114f3106d207e3b3e3502276383a574b4a7c07294ef287d3edf01": [
             "wss://relay.kiatsu.world"
