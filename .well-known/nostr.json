@@ -1,44 +1,14 @@
 {
     "names": {
+        "_": "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8",
         "godzhigella": "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8",
         "test": "0f33e09dcf8114f3106d207e3b3e3502276383a574b4a7c07294ef287d3edf01",
         "HonokaShisha": "6b932505d1dd547e3603da8d61841b412e69cceaec2d170519dff0cc1eea35ef"
     },
-    "relays": {
+    "relays":{},
+    "nip46": {
         "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8": [
-            "wss://relay.damus.io",
-            "wss://relay.mostr.pub",
-            "wss://nostr.bitcoiner.social",
-            "wss://nos.lol",
-            "wss://relay.plebstr.com",
-            "wss://relay.nostr.band",
-            "wss://offchain.pub",
-            "wss://relay.snort.social",
-            "wss://nostr1.current.fyi",
-            "wss://relay.current.fyi",
-            "wss://relay.primal.net",
-            "wss://nostr.mom",
-            "wss://nostr-pub.wellorder.net",
-            "wss://relay.nostr.bg",
-            "wss://e.nos.lol",
-            "wss://relay-jp.nostr.wirednet.jp",
-            "wss://relay.kiatsu.world",
-            "wss://nostr.orangepill.dev",
             "wss://relay.yozora.world"
-        ],
-        "0f33e09dcf8114f3106d207e3b3e3502276383a574b4a7c07294ef287d3edf01": [
-            "wss://relay.kiatsu.world"
-        ],
-        "6b932505d1dd547e3603da8d61841b412e69cceaec2d170519dff0cc1eea35ef": [
-            "wss://relay.damus.io",
-            "wss://relay.mostr.pub",
-            "wss://nostr.bitcoiner.social",
-            "wss://nos.lol",
-            "wss://relay.plebstr.com",
-            "wss://relay.nostr.band",
-            "wss://offchain.pub",
-            "wss://relay.snort.social",
-            "wss://relay.kiatsu.world"
         ]
     }
 }
