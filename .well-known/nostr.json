@@ -8,6 +8,7 @@
     "relays":{},
     "nip46": {
         "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8": [
+            "wss://nostr-pub.wellorder.net",
             "wss://relay.yozora.world"
         ]
     }
