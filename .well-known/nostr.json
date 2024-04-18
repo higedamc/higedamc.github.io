@@ -17,7 +17,6 @@
             "wss://relay.mostr.pub",
             "wss://relay-jp.nostr.wirednet.jp",
             "wss://yabu.me",
-            "wss://xmr.usenostr.org",
             "wss://nrelay-jp.c-stellar.net",
             "wss://relay.nostr.wirednet.jp",
             "wss://nostr-01.yakihonne.com",
@@ -34,8 +33,10 @@
             "wss://nostr.compile-error.net",
             "wss://cagliostr.compile-error.net",
             "wss://pyramid.fiatjaf.com",
-            "wss://relay.yozora.world",
-            "wss://creatr.nostr.wine"
+            "wss://creatr.nostr.wine",
+            "wss://nostr-relay.nokotaro.com",
+            "wss://xmr.usenostr.org",
+            "wss://relay.yozora.world"
         ],
         "0f33e09dcf8114f3106d207e3b3e3502276383a574b4a7c07294ef287d3edf01": [
             "wss://relay.yozora.world"
