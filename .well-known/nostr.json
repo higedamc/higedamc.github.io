@@ -34,13 +34,14 @@
         ],
         "6b932505d1dd547e3603da8d61841b412e69cceaec2d170519dff0cc1eea35ef": [
             "wss://relay.damus.io",
+            "wss://r.kojira.io",
+            "wss://yabu.me",
             "wss://relay.mostr.pub",
             "wss://nostr.bitcoiner.social",
             "wss://nos.lol",
             "wss://relay.plebstr.com",
             "wss://relay.nostr.band",
             "wss://offchain.pub",
-            "wss://relay.snort.social",
             "wss://relay.yozora.world",
             "wss://relay-jp.nostr.wirednet.jp"
         ]
