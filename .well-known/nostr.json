@@ -35,6 +35,7 @@
         "6b932505d1dd547e3603da8d61841b412e69cceaec2d170519dff0cc1eea35ef": [
             "wss://relay.damus.io",
             "wss://r.kojira.io",
+            "wss://nrelay-jp.c-stellar.net",
             "wss://yabu.me",
             "wss://relay.mostr.pub",
             "wss://nostr.bitcoiner.social",
