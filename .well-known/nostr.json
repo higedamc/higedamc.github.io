@@ -9,7 +9,9 @@
         "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8": [
             "wss://relay.nostr.band",
             "wss://relayable.org",
+            "wss://e.nos.lol",
             "wss://nos.lol",
+            "wss://relay.nos.social",
             "wss://relay.current.fyi",
             "wss://nostr.bitcoiner.social",
             "wss://relay.damus.io",
